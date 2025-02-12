@@ -1,3 +1,3 @@
 # VariousScripts
 
-Various Scripts I've created or worked with over time that may be useful to to others.
+Various Scripts I've created and worked with over time that may be useful to others.
